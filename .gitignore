@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+.pnp/
+.pnp.js
+
+# Environment Variables (CRITICAL)
+.env
+.env.local
+.env.production
+backend/.env
+frontend/.env
+
+# Build outputs
+dist/
+build/
+
+# OS/IDE files
+.DS_Store
+.vscode/
